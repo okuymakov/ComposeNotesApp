@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="msg_empty_notes">You have no notes yet! Try to create</string>
+    <string name="cd_delete_note">Delete note</string>
+    <string name="cd_add_note">Add note</string>
+    <string name="placeholder_tag_name">Enter tag name…</string>
+    <string name="cd_add_tag">Add</string>
+    <string name="cd_delete_tag_from_note">Delete tag from note</string>
+    <string name="cd_collapse">Collapse</string>
+    <string name="cd_delete_tag">Delete tag</string>
+    <string name="title_create_tag">Create new tag</string>
+    <string name="btn_save_tag">Save tag</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="cd_add_tag_to_note">Add tag to note</string>
+    <string name="placeholder_note_content">Enter content…</string>
+    <string name="placeholder_note_title">Enter title…</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_save_note">Save note</string>
+    <string name="cd_edit_note">Edit note</string>
+    <string name="title_tags">Tags</string>
+</resources>
